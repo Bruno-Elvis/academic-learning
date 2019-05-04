@@ -1,0 +1,13 @@
+C:\Users\luizs\Dropbox\Arquivo\Spilsoft_tfs\ListaExercicios03\ListaExercicios03\bin\Debug\ListaExercicios03.exe.config
+C:\Users\luizs\Dropbox\Arquivo\Spilsoft_tfs\ListaExercicios03\ListaExercicios03\bin\Debug\ListaExercicios03.exe
+C:\Users\luizs\Dropbox\Arquivo\Spilsoft_tfs\ListaExercicios03\ListaExercicios03\bin\Debug\ListaExercicios03.pdb
+C:\Users\luizs\Dropbox\Arquivo\Spilsoft_tfs\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.csprojResolveAssemblyReference.cache
+C:\Users\luizs\Dropbox\Arquivo\Spilsoft_tfs\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.exe
+C:\Users\luizs\Dropbox\Arquivo\Spilsoft_tfs\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.pdb
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\bin\Debug\ListaExercicios03.exe.config
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\bin\Debug\ListaExercicios03.exe
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\bin\Debug\ListaExercicios03.pdb
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.exe
+C:\Users\Developer\source\repos\ListaExercicios03\ListaExercicios03\obj\Debug\ListaExercicios03.pdb

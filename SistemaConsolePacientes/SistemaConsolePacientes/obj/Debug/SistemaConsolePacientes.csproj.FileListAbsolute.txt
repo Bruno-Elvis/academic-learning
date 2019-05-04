@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\bin\Debug\SistemaConsolePacientes.exe.config
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\bin\Debug\SistemaConsolePacientes.exe
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\bin\Debug\SistemaConsolePacientes.pdb
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\obj\Debug\SistemaConsolePacientes.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\obj\Debug\SistemaConsolePacientes.exe
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\obj\Debug\SistemaConsolePacientes.pdb
+C:\Users\Developer\source\repos\SistemaConsolePacientes\SistemaConsolePacientes\obj\Debug\SistemaConsolePacientes.csprojAssemblyReference.cache
